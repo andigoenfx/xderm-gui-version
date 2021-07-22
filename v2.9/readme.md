@@ -1,1 +1,1 @@
-wget -O update-manual https://raw.githubusercontent.com/ryanfauzi1/xderm-mini_GUI/main/update-manual && chmod +x update-manual && ./update-manual
+wget -O downgradev29 https://raw.githubusercontent.com/andigoenfx/xderm-gui-version/main/v2.9/downgradev29 && chmod +x downgradev29 && ./downgradev29
